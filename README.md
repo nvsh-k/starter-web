@@ -20,4 +20,4 @@ really intrested to see what will happen
 
 ## How to Contribute
 
-Copy Right 2014 VGit Training more Copy right
+Copy Right 2014 VGit Training more Copy right yeahhhh
