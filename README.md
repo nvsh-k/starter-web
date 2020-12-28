@@ -19,3 +19,5 @@ This text is not being added to the repository
 really intrested to see what will happen
 
 ## How to Contribute
+
+Copy Right 2014 VGit Training
