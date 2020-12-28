@@ -19,5 +19,6 @@ This text is not being added to the repository
 really intrested to see what will happen
 
 ## How to Contribute
+Please fork this repository and issue pull
 
 Copy Right 2014 VGit Training more Copy right yeahhhh
