@@ -2,6 +2,7 @@
 
 This is a sample text
 And this is the second line of the text
+Adding a line for rebasing example
 
 ## Introduction
 
