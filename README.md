@@ -10,6 +10,12 @@ which will be used
 
 ## Purpose
 
+This text is to just add in the local repository
+not to commit
+
 ## Deployment
+
+This text is not being added to the repository
+really intrested to see what will happen
 
 ## How to Contribute
